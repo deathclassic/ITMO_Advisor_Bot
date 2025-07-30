@@ -1,3 +1,3 @@
 # Configuration settings (e.g., Telegram token)
-TELEGRAM_TOKEN = ''
-OPENAI_API_KEY = ''
+TELEGRAM_TOKEN = 'INSERT YOUR TELEGRAM TOKEN'
+OPENAI_API_KEY = 'INSERT YOUR OPENAI KEY'
